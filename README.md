@@ -15,7 +15,7 @@ These segmentations have practical applications such as surgical planning, lesio
 
 ---
 
-#### Guide: Red = Cerebrospinal fluid, Green = Gray Matter and Red = White Matter
+#### Guide: Red = Cerebrospinal fluid, Green = Gray Matter and Blue = White Matter
 ![alt-text](https://storage.googleapis.com/dl-visuals-peter-ngo/Final%20Results.png)
   
   
