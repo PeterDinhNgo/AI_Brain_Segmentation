@@ -1,4 +1,5 @@
 # AI Brain Segmentation
+##### Author: Peter Dinh Ngo
 Magnetic Resonance imaging is widely used by medical professionals for the visualisation of anatomical structures and the detection of pathological lesions. Brain tissue intensity is the core feature being analysed when performing MRI's on the brain.  
 To segment and classify typically homogenous and noisy brain MRI's into the three specific tissue types: White Matter, Gray Matter and Cerebrospinal fluid, a deep auto-encoder based upon the UNet architecture[1] proposed by Brox et. al in 2015 was used.
 These segmentations have practical applications such as surgical planning, lesion detection and anomaly detection. 
