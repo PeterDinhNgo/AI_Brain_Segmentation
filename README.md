@@ -5,16 +5,17 @@ To segment and classify typically homogenous and noisy brain MRI's into the thre
 These segmentations have practical applications such as surgical planning, lesion detection and anomaly detection. 
 
   
-### UNET Architecture [1]
+## UNET Architecture [1]
 
 ---
 
 ![alt-text](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/u-net-architecture.png)
   
-### Results
+## Results
 
 ---
 
+#### Guide: Red = Cerebrospinal fluid, Green = Gray Matter and Red = White Matter
 ![alt-text](https://storage.googleapis.com/dl-visuals-peter-ngo/Final%20Results.png)
   
   
